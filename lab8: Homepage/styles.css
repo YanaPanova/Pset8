@@ -1,0 +1,59 @@
+body {
+    background-color: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .menu {
+    position: absolute;
+    left: 100px;
+    top: 50px;
+  }
+
+  .name {
+    position:absolute;
+    font-size: 36px;
+    top: 150px;
+    left: 530px;
+    font-weight: bolder;
+    margin: 0;
+    line-height: 60px;
+  }
+
+  .image {
+    position: absolute;
+    width: 380px;
+    height: 350px;
+    left: 450px;
+    top: 250px;
+  }
+
+  .container {
+    top: 650px;
+    position: absolute;
+    height: 400px;
+    width: 850px;
+    left: 250px;
+  }
+
+  .container-2 {
+    position: absolute;
+    width: 950px;
+    height: 400px;
+    left: 250px;
+    top: 250px;
+  }
+  .container-3 {
+    position: absolute;
+    top: 250px;
+    left: 250px;
+  }
+
+  .container-4
+  {
+    position: absolute;
+    top: 250px;
+    left: 250px;
+  }
